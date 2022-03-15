@@ -21,5 +21,3 @@ cd docs/.vuepress/dist
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
 git push -f git@github.com:leohlei/huangjjblog.git master:gh-pages
-
-cd -
