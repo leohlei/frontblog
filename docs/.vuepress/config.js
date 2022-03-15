@@ -1,8 +1,7 @@
 module.exports = {
   title: "LEO的博客",
   description: "我的心路历程",
-  dest: "./dist",
-  port: "8080",
+  dest: "dist",
   base: "/huangjjblog/",
   head: [["link", { rel: "icon", href: "/logo.png" }]],
   markdown: {
